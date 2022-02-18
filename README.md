@@ -17,3 +17,6 @@
 ### Lora transmitter device installed in a tree:
 
 ![Lora device installed in a tree](https://github.com/Scicrop/le32mt/raw/main/images/13030f9a-5ea8-4bea-8bb8-1d0d6a015e81.jpeg "Lora Module")
+
+![Lora device installed in a tree](https://github.com/Scicrop/le32mt/raw/main/images/981c6842-ec53-4b3f-a748-c871e76e9e6b.jpeg "Lora Module")
+
